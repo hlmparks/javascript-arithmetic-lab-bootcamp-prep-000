@@ -28,8 +28,3 @@ function makeInt(a) {
   parseInt(a)
   return a
 }
-
-function makeFloat(a) {
-  parseFloat(a, 10)
-  return a
-}
